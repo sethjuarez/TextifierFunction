@@ -1,4 +1,4 @@
-name: imageworxapi ci
+name: textifierfunc ci
 
 on: [push]
 
